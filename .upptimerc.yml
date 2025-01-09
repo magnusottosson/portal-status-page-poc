@@ -13,12 +13,12 @@ status-website:
   themeUrl: https://magnusottosson.github.io/portal-status-page-poc/husqvarna-theme.css
   baseUrl: /portal-status-page-poc
   logoUrl: https://magnusottosson.github.io/portal-status-page-poc/husqvarna-logo.png
-  name: Upptime
+  name: 
   introTitle: "Husqvarna Portal Status Page"
   introMessage: "Follow all incidents and issues regarding Husqvarna Portal"
   navbar:
     - title: Status
-      href: /
+      href: https://magnusottosson.github.io/portal-status-page-poc
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
