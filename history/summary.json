@@ -4,17 +4,19 @@
     "url": "https://portal.husqvarnagroup.com/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.husqvarnagroup.com.ico",
     "slug": "portal-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 658,
-    "timeDay": 553,
-    "timeWeek": 614,
-    "timeMonth": 637,
-    "timeYear": 658,
-    "dailyMinutesDown": {}
+    "time": 653,
+    "timeDay": 499,
+    "timeWeek": 593,
+    "timeMonth": 631,
+    "timeYear": 653,
+    "dailyMinutesDown": {
+      "2025-02-24": 0
+    }
   }
 ]
